@@ -17,7 +17,7 @@ pd110\Scripts\activate
 Desde el directorio del proyecto, clonamos el proyecto:
 
 ~~~
-
+git clone https://github.com/carlosfripp/django-app-boletin.git
 ~~~
 
 Para que el proyecto funcione, debemos instalar las siguientes librerias:
